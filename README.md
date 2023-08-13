@@ -1,3 +1,4 @@
+
 # Minimap For React
 
 ![minimap](https://imageupload.io/ib/tYll9Sh5MEQm18q_1691943250.png)
@@ -73,10 +74,10 @@ Mapbox GL JS relies on client-side rendering. Mapbox GL JS maps are dynamically 
 
 ## Props
 
-| props | defaultValue |
-| LocationData | null |
-| setZoomPosition | 12 |
-| setSelectedLocation | LocationData |
+| props               | defaultValue      |
+| LocationData        | null              |
+| setZoomPosition     | 12                |
+| setSelectedLocation | LocationData      |
 
 ### Author
 
