@@ -21,6 +21,7 @@ And finally, it displays the details of the car in a small pop-up.
 > Use the following command to run the project
 
 ```bash
+npm i
 npm run dev
 ```
 
