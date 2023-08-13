@@ -22,6 +22,9 @@ And finally, it displays the details of the car in a small pop-up.
 
 ```bash
 npm i
+```
+
+```bash
 npm run dev
 ```
 
