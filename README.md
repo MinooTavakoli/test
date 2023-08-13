@@ -75,6 +75,7 @@ Mapbox GL JS relies on client-side rendering. Mapbox GL JS maps are dynamically 
 ## Props
 
 | props               | defaultValue      |
+| ------------------- | ----------------- |
 | LocationData        | null              |
 | setZoomPosition     | 12                |
 | setSelectedLocation | LocationData      |
