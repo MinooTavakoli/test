@@ -54,11 +54,16 @@ why vite?
 Fundamentally, at the core, Vite.js does two main things, and does it really well:
 Serve code locally during development
 Bundle all your frontend assets (HTML, CSS, JS etc.) for production.
-Vite leverages native ES modules in the browser. This will help to load your code instantly, no matter how large your module dependencies are or how large the application code has become. Vite also uses Hot Module Replacement (HMR). HMR accounts for the fast and effective part of Vite, as it watches for state changes in the application and adds and/or removes modules while the application is running without prompting a full reload of the application. What this means for the developers is you can see the changes you make to your code instantly right in your browser as you're coding.
+Vite leverages native ES modules in the browser. This will help to load your code instantly,
+no matter how large your module dependencies are or how large the application code has become.
+Vite also uses Hot Module Replacement (HMR). HMR accounts for the fast and effective part of Vite,
+as it watches for state changes in the application and adds and/or removes modules while the application is running without prompting a full reload of the application.
+What this means for the developers is you can see the changes you make to your code instantly right in your browser as you're coding.
 
 yarn add @emotion/react @emotion/styled
 why emotion/react & @emotion/styled?
-Emotion is a library for styling React applications that provides a simple and efficient way to manage your styles. It allows you to write CSS in JavaScript and provides a flexible API for styling your components.
+Emotion is a library for styling React applications that provides a simple and efficient way to manage your styles.
+It allows you to write CSS in JavaScript and provides a flexible API for styling your components.
 
 yarn add framer-motion
 why framer-motion?
@@ -67,9 +72,11 @@ It powers the amazing animations and interactions in Framer, the web builder for
 
 yarn add mapbox-gl
 why mapbox-gl?
-The "GL" in Mapbox GL JS refers to Mapbox GL, a graphics library that renders 2D and 3D Mapbox maps as dynamic visual graphics with OpenGL in any compatible web browser, without using additional plugins.
+The "GL" in Mapbox GL JS refers to Mapbox GL, a graphics library that renders 2D and 3D Mapbox maps as dynamic visual graphics with OpenGL in any compatible web browser,
+without using additional plugins.
 Client-side rendering
-Mapbox GL JS relies on client-side rendering. Mapbox GL JS maps are dynamically rendered by combining vector tiles with style rules in the browser rather than on a server, which makes it possible to change the maps's style and displayed data in response to user interaction.
+Mapbox GL JS relies on client-side rendering. Mapbox GL JS maps are dynamically rendered by combining vector tiles with style rules in the browser rather than on a server,
+which makes it possible to change the maps's style and displayed data in response to user interaction.
 ```
 
 ## Props
